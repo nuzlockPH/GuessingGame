@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Box.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Box.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Box.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Buttons.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Buttons.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Buttons.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Colors.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Colors.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Colors.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/DifficultyScreen.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/DifficultyScreen.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/DifficultyScreen.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Display.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Display.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Display.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Errors.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Errors.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Errors.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Event.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Event.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Event.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/File.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/File.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/File.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Fonts.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Fonts.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Fonts.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/GameScreen.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/GameScreen.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/GameScreen.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Health.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Health.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Health.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Initialize.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Initialize.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Initialize.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Logic.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Logic.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Logic.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/RetryScreen.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/RetryScreen.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/RetryScreen.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Screen.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screen.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screen.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Start.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Start.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Start.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/StartScreen.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/StartScreen.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/StartScreen.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Text.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Text.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Text.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/Word.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Word.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Word.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src -I/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/Screens -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/allegro5 -Wall -std=c++2a -o CMakeFiles/Hangman.dir/src/main.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/main.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/src/main.cpp"
+}
+]

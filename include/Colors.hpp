@@ -1,0 +1,14 @@
+#include <allegro5/allegro5.h>
+
+
+bool isInvalidColor(ALLEGRO_COLOR);
+ALLEGRO_COLOR getInvalidColor();
+
+extern ALLEGRO_COLOR RED;
+extern ALLEGRO_COLOR GREEN;
+extern ALLEGRO_COLOR BLUE;
+extern ALLEGRO_COLOR WHITE;
+extern ALLEGRO_COLOR BLACK;
+extern ALLEGRO_COLOR TEXTCOLOR;
+extern ALLEGRO_COLOR BGCOLOR;
+extern ALLEGRO_COLOR BOXCOLOR;

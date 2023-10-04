@@ -1,0 +1,3 @@
+/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/CMakeFiles/rebuild_cache.dir
+/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/CMakeFiles/edit_cache.dir
+/storage/emulated/0/Documents/Cxxdroid/cpp/Hangman/CMakeFiles/Hangman.dir
